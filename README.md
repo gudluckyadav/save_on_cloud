@@ -3,18 +3,6 @@
  
  
  ![cloud 1](https://user-images.githubusercontent.com/31361652/31910363-1812395e-b7f2-11e7-98b6-4281bf053239.PNG)
-
- # INTRODUCTION 
-
-   * University Name: http://www.sjsu.edu/
-
-   * Course: [Cloud Technologies](http://info.sjsu.edu/web-dbgen/catalog/courses/CMPE281.html/)
-
-   * Professor: [Sanjay Garje](https://www.linkedin.com/in/sanjaygarje/)
-
-   * ISA: [Divyanthika Urs](https://www.linkedin.com/in/divyankithaurs/)
-   
-   * Student: [Anuradha Rajashekar](https://www.linkedin.com/in/anu-rajashekar-4b950092/)
    
    # PROJECT IDEA
 
